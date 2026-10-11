@@ -12,4 +12,4 @@
 - ANALYTICAL PRE-DESIGN ESTIMATION OF LAUNCH VEHICLE BURNOUT VELOCITY: A HIERARCHY OF APPROXIMATIONS, Kumyspayev et al., Analytical approx predesign etc, Vestnik AUES, 2(73) 2026, [doi](https://doi.org/10.51775/2790-0886_2026_73_2_172)
 
 ## Skills
-- SolidWorks, ASTOS Solutions, MatLab, 
+- SolidWorks, ASTOS Solutions, MatLab. 
